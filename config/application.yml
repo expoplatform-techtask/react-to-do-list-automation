@@ -1,0 +1,5 @@
+# URL
+environments:
+  dev: https://computationalcore.github.io/react-to-do-list # just for example here, should be different in real
+  preprod: https://computationalcore.github.io/react-to-do-list # just for example here, should be different in real
+  prod: https://computationalcore.github.io/react-to-do-list

@@ -1,0 +1,5 @@
+pytest
+pytest-testrail
+PyYAML
+selenium
+webdriver-manager
